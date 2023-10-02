@@ -2,6 +2,9 @@
 
 int main()
 {
+    /*
+    +, -, *, /, %
+    */
     // write c program code
     int a, b, sum, sub, div, mul, mod;
     printf("enter your first number: ");
