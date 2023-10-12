@@ -20,8 +20,9 @@ int main()
     printf("%0.2f\n",myResult);
 
     /* Char practice */
-    char myName = 'N';
-    printf("%c\n",myName);
+    char d;
+    scanf("%c",&d);
+    printf("%c\n",d);
 
     /* Boolean practice */
     
