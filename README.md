@@ -1,7 +1,7 @@
 
 # Competetive programming 
 
-- C & C++
+**C** ,**C++**
 
 
 
