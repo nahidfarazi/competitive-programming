@@ -18,6 +18,10 @@
 - String
 - Function
 - Pointer
+- -Recussion
+- Dynamic Memory
+- Class and object
+- Dynamic object
 
 
 
